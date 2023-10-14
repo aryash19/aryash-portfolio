@@ -65,13 +65,7 @@ const Desc = styled.div`
     }
 `;
 
-const Image = styled.img`
-    width: 100%;
-    object-fit: cover;
-    border-radius: 12px;
-    margin-top: 30px;
-    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.3);
-`;
+
 
 const Label = styled.div`
     font-size: 20px;
@@ -123,18 +117,6 @@ const Member = styled.div`
     gap: 12px;
 `;
 
-const MemberImage = styled.img`
-    width: 50px;
-    height: 50px;
-    object-fit: cover;
-    border-radius: 50%;
-    margin-bottom: 4px;
-    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.3);
-    @media only screen and (max-width: 600px) {
-        width: 32px;
-        height: 32px;
-    }
-`;
 
 const MemberName = styled.div`
     font-size: 16px;
@@ -197,7 +179,7 @@ const index = ({ openModal, setOpenModal }) => {
                         }}
                         onClick={() => setOpenModal({ state: false, project: null })}
                     />
-                    <Image src={project?.image} />
+                    
                     <Title>{project?.title}</Title>
                     <Date>{project.date}</Date>
                     <Tags>
@@ -212,7 +194,7 @@ const index = ({ openModal, setOpenModal }) => {
                             <Members>
                                 {project?.member.map((member) => (
                                     <Member>
-                                        <MemberImage src={member.img} />
+                                        
                                         <MemberName>{member.name}</MemberName>
                                         <a href={member.github} target="new" style={{textDecoration: 'none', color: 'inherit'}}>
                                             <GitHub />
