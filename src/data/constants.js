@@ -218,9 +218,9 @@ export const experiences = [
     id: 0,
     
     role: "Cloud Engineer-Intern",
-    company: "Assisted in deploying and managing virtual machines, containers, and serverless functions on cloud platform Azure",
+    company: "Hanu Software Solutions" ,
     date: "June 2022 - August 2022",
-    desc: "Working on the frontend of the web application using ReactJS, Redux, and Material UI.",
+    desc: "Assisted in deploying and managing virtual machines, containers, and serverless functions on cloud platform Azure",
     skills: [
       "Azure",
       ".NET",
