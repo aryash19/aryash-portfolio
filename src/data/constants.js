@@ -256,7 +256,7 @@ export const education = [
   {
     id: 2,
    // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
-    school: "Dehradun Public School, Dankuni",
+    school: "Dehradun Public School, Muzaffarnagar",
     date: "Apr 2015 - Apr 2017",
    // grade: "92.3%",
     desc: "I completed my class 10 education at Dehradun Public School, Muzaffarnagar",
