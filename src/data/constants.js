@@ -379,15 +379,15 @@ export const projects = [
       "https://user-images.githubusercontent.com/64485885/255237090-cf798a2c-1b41-4bb7-b904-b5353a1f08e8.png",
     tags: ["React Native", "JavaScript", "Axios"],
     category: "android app",
-    github: "https://github.com/rishavchanda/Job-finder-App",
-    webapp: "https://github.com/rishavchanda/Job-finder-App",
+    github: "https://github.com/aryash19/react-native-jobs",
+    webapp: "https://github.com/aryash19/react-native-jobs",
   },
   {
     id: 4,
     title: "Whatsapp Clone",
     date: "Oct 2023",
     description:
-      "A WhatsApp clone made with React JS, postgreSQL, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.It has video and voice call services vy using zego cloud ",
+      "A WhatsApp clone made with React JS, postgreSQL, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.It has video and voice call services by using zego cloud ",
    // image:
      // "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
     tags: ["React Js", "Firebase", "PostgreSQL", "Node JS" , "Expressjs" , "Zegocloud"],
@@ -400,7 +400,7 @@ export const projects = [
     title: "Netflix Clone",
     date: "May 2022",
     description:
-      "A Netflic clone made with React JS, Authentication , Redux,API and Material UI. It has Phone Authentication, Real-time Database. ",
+      "A Netflix clone made with React JS, Authentication , Redux,API and Material UI. It has Phone Authentication, Real-time Database. ",
    // image:
      // "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
     tags: ["React Js", "Firebase", "Node JS" , "Expressjs" , "redux"],
@@ -426,7 +426,7 @@ export const projects = [
     title: "Diabetes Predictor ",
     date: "Jun 2021",
     description:
-      "A Diabetes predictor python app made with streamlit. It uses ML library to predict person have Diabetes disease or not ..",
+      "A Diabetes predictor python app made with streamlit. It uses ML library to predict person have Diabetes disease or not .",
     //image:
     //  "https://camo.githubusercontent.com/cd07010cbeb90cb1b43a5d6162784326aef02210ef7d41a0f9ae043b3e392378/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f7425323028313534292e706e673f616c743d6d6564696126746f6b656e3d65613439383630632d303435362d343333342d616435372d336239346663303333363263",
     tags:["Python", "Keras", "TensorFlow", "sklearn", "Pickle", "streamlit"],
