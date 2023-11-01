@@ -194,7 +194,7 @@ export const experiences = [
   {
     id: 0,
     
-    role: "Frontend Engineer Intern",
+    role: "FullStack Engineer Intern",
     company: "7 -Etech Pvt. Ltd.",
     date: "May 2023 - August 2023",
     desc: "Working on the frontend of the web application using ReactJS, Redux, and Material UI.",
