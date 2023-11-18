@@ -323,6 +323,27 @@ export const projects = [
     github: "https://github.com/aryash19/Dall-E",
     webapp: "https://github.com/aryash19/Dall-E",
   },
+   {
+    id: 13,
+    title: "Instagram Clone",
+    date: "Nov 2023",
+    description:
+      "Designed and developed the Instagram clone, a clone have new post,like, comment functionality .",
+   // image:
+     // "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+    tags: [
+      "React Js",
+      "Next.js",
+      "firebase",
+      
+      
+      "Recoil",
+      "OAuth",
+    ],
+    category: "web app",
+    github: "https://github.com/aryash19/Insta-clone",
+    webapp: "https://insta-clone-rho-taupe.vercel.app/",
+  },
   {
     id: 12,
     title: "Recipe App",
