@@ -194,7 +194,31 @@ export const experiences = [
   {
     id: 0,
     
-    role: "FullStack Engineer Intern",
+    role: "Data Scientist Intern",
+    company: "Navyug InfoSolutions Pvt. limited",
+    date: "April 2024 - ",
+    desc: "Working on the AI related projects such as on computer vision and LLM , also on the blockchain based DLT",
+    skills: [
+      
+      
+      "Python",
+      "Machine Learning",
+      "Corda",
+      "Java",
+
+      
+      
+      "OpenCV",
+      "LLM",
+      
+      
+    ],
+    //doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
+  },
+  {
+    id: 1,
+    
+    role: "Frontend Engineer Intern",
     company: "7 -Etech Pvt. Ltd.",
     date: "May 2023 - August 2023",
     desc: "Working on the frontend of the web application using ReactJS, Redux, and Material UI.",
@@ -215,7 +239,7 @@ export const experiences = [
     //doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
   },
   {
-    id: 0,
+    id: 2,
     
     role: "Cloud Engineer-Intern",
     company: "Hanu Software Solutions" ,
@@ -239,7 +263,7 @@ export const education = [
     id: 0,
     //img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
     school: "ABES Institute of Technology, Ghaziabad",
-    date: "Oct 2021 - Sep 2024",
+    date: "Jun 2020 - Jun 2024",
     //grade: "8.71 CGPA",
     desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at ABES Institute of  Technology, Ghaziabad. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a SIH22 Grand Finalist ,where I am learning and working on exciting projects with a team of talented developers.",
     degree: "Bachelor of Technology - BTech, Information Technology",
@@ -248,7 +272,7 @@ export const education = [
     id: 1,
     //img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
     school: "Dehradun Public School, Muzaffarnagar",
-    date: "Apr 2017 - Apr 2029",
+    date: "Apr 2017 - Apr 2019",
    // grade: "88.2%",
     desc: "I completed my class 12 education at Dehradun Public School, Muzaffarnagar, where I studied Science(PCM).",
     degree: "CBSE(XII), Science(PCM)",
