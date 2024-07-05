@@ -6,6 +6,7 @@ export const Bio = {
   roles: [
     "Full Stack Developer",
     "Android Developer",
+    "Data science",
     "Machine Learning Enthusiast",
     
     "Programmer",
@@ -197,7 +198,7 @@ export const experiences = [
     role: "Data Scientist Intern",
     company: "Navyug InfoSolutions Pvt. limited",
     date: "April 2024 - ",
-    desc: "Working on the AI related projects such as on computer vision and LLM , also on the blockchain based DLT",
+    desc: "Working on the AI related projects such as on computer vision and LLM like gpt4,gpt4O , gemini and Llama, also on the blockchain based DLT like Corda",
     skills: [
       
       
