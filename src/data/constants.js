@@ -4,18 +4,18 @@ import tailwind from "../images/tailwind-css.svg"
 export const Bio = {
   name: "Aryash",
   roles: [
-    "Full Stack Developer",
-    "Android Developer",
-    "Data scientist",
-    "Machine Learning Enthusiast",
     
-    "Programmer",
+    ,"Data scientist",
+    "ML Enthusiast",
+    "Full Stack Developer"
+    
+    
   ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/aryash19",
   resume:
-    "https://drive.google.com/file/d/1C3_jOCyv1sH4zBxDaM_OZ8kYwm4PwtGf/view?usp=sharing",
+    "https://drive.google.com/file/d/1zsyxzdWhvQ-GALeRJw8N8h7E5XmOaSno/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/aryash19/",
   twitter: "https://twitter.com/aryash_19",
   insta: "https://www.instagram.com/aryash_chaudhary___/",
@@ -195,9 +195,36 @@ export const experiences = [
   {
     id: 0,
     
+    role: " Associate Data Scientist",
+    company: "Navyug InfoSolutions Pvt. limited",
+    date: "October 2024 - ",
+    desc: "Here I worked on the computer vision to prevent the counterfieting of products and worked on the private blockchain DLT Corda for preventing the corruption for disbursal of money through corda",
+    skills: [
+      
+      
+      "Python",
+      "Machine Learning",
+      "Corda",
+      "Java",
+      "YOLOv8",
+      "Computer Vision",
+      "Gen AI",
+
+      
+      
+      "OpenCV",
+      "LLM",
+      
+      
+    ],
+    //doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
+  },
+  {
+    id: 0,
+    
     role: "Data Scientist Intern",
     company: "Navyug InfoSolutions Pvt. limited",
-    date: "April 2024 - ",
+    date: "April 2024 - October 2024 ",
     desc: "Here I worked on the computer vision to prevent the counterfieting of products and worked on the private blockchain DLT Corda for preventing the corruption for disbursal of money through corda",
     skills: [
       
